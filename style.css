@@ -1,0 +1,19 @@
+.foo{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.triangle{
+    border: solid 1px black;
+    width: 200px;
+    height: 200px;    
+}
+
+.mole{
+    background-color: blue;
+}
+body{
+    background-color: burlywood;
+}
